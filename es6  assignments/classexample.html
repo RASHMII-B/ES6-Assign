@@ -1,0 +1,32 @@
+<html>
+<head>
+</head>
+<body>
+</body>
+<script>
+
+   class Employee {
+      constructor(name,designation,empid){
+         this.name = name
+         this.designation = designation
+         this.empid = empid
+      
+         console.log(` ${name} `)
+         
+      }
+    display(){
+             console.log(`employee name is  ${this.name} `)
+            
+            ;
+        }
+       
+   }
+   let s1 = new Employee('rashmi','uideveloper',101)
+   s1.display();
+   console.log(s1)
+   //setter is called
+   s1.empid = 111
+   console.log(s1)
+
+</script>
+</html>
