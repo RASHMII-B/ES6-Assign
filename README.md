@@ -7,3 +7,6 @@ feb 1 assignments
 4. delegation
 
 
+feb 8 assignments 
+1.arrow function
+2.settimeout
