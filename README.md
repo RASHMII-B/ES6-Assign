@@ -10,3 +10,8 @@ feb 1 assignments
 feb 8 assignments 
 1.arrow function
 2.settimeout
+
+feb 10 assignments
+1. map
+2. reduce
+3. filter
